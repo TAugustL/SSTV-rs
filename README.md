@@ -65,7 +65,7 @@ cargo run --release [PATH TO IMAGE] [SAVE DESTINATION] [SSTV MODE]
 You can also just use ```cargo run --release``` to get all the help you need.
 
 ## Why?
-Because it's fun. I even encourage you to make your own SSTV encoder in the programming language of your choice.
+Because it's fun. I even encourage you to make your own SSTV encoder in the programming language of your choice. Just know that you may look like an insane person to people around you if you sit alone in your room with loud beeping noise coming from your computer.
 The sources I used for this project are <a href="https://www.sstv-handbook.com/">this extremely helpful PDF</a> and <a href="https://github.com/BenderBlog/rust-sstv">this repository by BenderBlog</a>.
 
 <hr>
