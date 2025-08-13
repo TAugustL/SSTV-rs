@@ -49,7 +49,7 @@ There are many modes for SSTV signals, but my program covers the most used:
   </tr>
 </table>
 
-Each mode group (Scottie, Martin, ...) has their own unique way to encode images, but you could just say that there are certain sounds that play at certain times in the signal to tell the decoder where a row ends or what coller to decode. My program generates these sounds and saves them in a uncompressed WAV file. You can then do anything with that file, but I recommend converting it to another format with the converter of your choice. Since SSTV is relatively resistant against some noise in the signal, you can also convert the file into a lossy format like MP3 and it still works.
+Each mode group (Scottie, Martin, ...) has their own unique way to encode images, but you could just say that there are certain sounds that play at certain times in the signal to tell the decoder where a row ends or what color to decode. My program generates these sounds and saves them in a uncompressed WAV file. You can then do anything with that file, but I recommend converting it to another format with the converter of your choice. Since SSTV is relatively resistant against some noise in the signal, you can also convert the file into a lossy format like MP3 and it still works.
 
 > [!WARNING]
 > Increasing the compression of the file will cause the decoded image to look worse.
